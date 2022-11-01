@@ -2,6 +2,6 @@
 
 Cucumber junit test
 -------------------
-Download and run in intelij idea ide
-open pom.xml file to download all the dependancy
-run TestRunner.java file in ide
+1) Download and run in intelij idea ide
+2) Open pom.xml file to download all the dependancy
+3) run TestRunner.java file in ide
